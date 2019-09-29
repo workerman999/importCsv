@@ -1,0 +1,11 @@
+.file-upload .input-file{
+    width:.1px;
+    height:.1px;
+    opacity:0;
+    overflow:hidden;
+    position:absolute;
+    z-index:-1
+}
+.btn {
+    cursor: pointer;
+}
